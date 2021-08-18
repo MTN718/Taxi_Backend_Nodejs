@@ -1,0 +1,6 @@
+entity: Rider
+items:
+  rider1:
+    firstName: '{{name.firstName}}'
+    lastName: '{{name.lastName}}'
+    mobileNumber: '9521098822'
